@@ -26,12 +26,13 @@
 ### :man_technologist: About Me :
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
 - :telescope: I’m contributing to frontend and backend for building web applications.
+
 - 💻 I’m currently working on an LineAge II java server emulator and telegram bots
 
 - :zap: In my free time, I solve problems on GeeksforGeeks/LeetCode and read tech articles.
-
+<!--
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
