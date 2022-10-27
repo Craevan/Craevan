@@ -60,7 +60,7 @@ I am a Java Developer from Saint-Petersburg.
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Craevan&theme=swift&hide_border=true)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craevan&layout=compact&theme=swift&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craevan&layout=compact&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 
 <!--
