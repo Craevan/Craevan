@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="350"/>
   <div id="badges">
+    <a href="https://spb.hh.ru/applicant/resumes/view?resume=7fb63433ff0b73251f0039ed1f46773144456b">
+      <img src = "https://papik.pro/uploads/posts/2022-01/1643610823_3-papik-pro-p-hh-logotip-4.jpg" width="58" height="28" alt="HeadHunter"/>
+    </a>
     <a href="https://www.linkedin.com/in/asiverskii/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
